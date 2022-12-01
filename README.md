@@ -1,7 +1,7 @@
 
 # Snippetbox
 
-Web backend project of Alex Edwards book (in progress)
+Web backend project
 
 
 
